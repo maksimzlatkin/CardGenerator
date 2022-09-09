@@ -1,0 +1,47 @@
+{
+  "webServiceURL": "https://example.com/passes/",
+  "storeCard": {
+    "backFields": [
+      {
+        "value": "WE LOOK FORWARD TO SERVING YOU!",
+        "key": "serving"
+      },
+      {
+        "value": "##Name## \nPhone Number: ##Phone##\n \nISSUED BY\nHoly Sol Co.\n \nAs a thank you for your recent jewelry purchase and for being one of our most valued customers, we\u2019d like to extend an invitation for you to enjoy complimentary lunch at Holy Sol restaurants throughout 2022. Whether you\u2019re joining us for a leisurely afternoon meal or celebrating a special occasion, we\u2019d love to have you anytime to enjoy some of your favorite dishes.\n \nMAKE A RESERVATION TO DINE WITH US\nhttps://www.opentable.com/ \n \nCALL OUR EXECUTIVE SERVICES TEAM \n800-555-6666 \n \nOFFER EXPIRES \n12/31/2022",
+        "key": "Issued by"
+      }
+    ],
+    "secondaryFields": [{
+      "label": "",
+      "value": "##Name##",
+      "key": "member"
+    }],
+    "primaryFields": [],
+    "headerFields": [{
+      "label": "Phone Number",
+      "value": "##Phone##",
+      "key": "phone"
+    }],
+    "auxiliaryFields": [{
+      "label": "Expires",
+      "value": "12/31/2022",
+      "key": "offer"
+    }]
+  },
+  "backgroundColor": "rgb(0, 0, 0)",
+  "serialNumber": "8j23fm3",
+  "organizationName": "Holy Sol",
+  "associatedStoreIdentifiers": [785548638],
+  "description": "Holy Sol Loyalty Card",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "labelColor": "rgb(255, 255, 255)",
+  "authenticationToken": "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
+  "locations": [{
+    "relevantText": "HS Store Nearby",
+    "latitude": 32.780887350800484,
+    "longitude": -96.79723765467922
+  }],
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.mynmg.wallet",
+  "teamIdentifier": "NULL"
+}
