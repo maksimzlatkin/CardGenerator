@@ -42,6 +42,6 @@
     "longitude": -96.79723765467922
   }],
   "formatVersion": 1,
-  "passTypeIdentifier": "pass.com.mynmg.wallet",
-  "teamIdentifier": "89MASEM3KE"
+  "passTypeIdentifier": "pass.com.myhsg.wallet",
+  "teamIdentifier": null
 }
